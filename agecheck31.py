@@ -1,11 +1,11 @@
 """
-        This program will ask your age and then check against four factors and print the results.
-        Driving age will be 16
-        Voting age will be 18
-        Legal to buy alcohol will be 21
-        age eligible for senior discount will be 65
-        age_1 will be the integer cast variable
-    """
+    This program will ask your age and then check against four factors and print the results.
+    Driving age will be 16
+    Voting age will be 18
+    Legal to buy alcohol will be 21
+    age eligible for senior discount will be 65
+    age_1 will be the integer cast variable
+"""
 
 # variable and input
 
