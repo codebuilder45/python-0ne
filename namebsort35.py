@@ -4,7 +4,7 @@
     Print to the console. Reverse the name list and print to the console.     
 """
 
-# variables
+# variable list
 
 name_list = []
 
